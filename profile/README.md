@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🔫 Finger Gun
 
-<!--
+*A studio for side quests, half-baked genius, and dangerously playful ideas.*
 
-**Here are some ideas to get you started:**
+We specialize in things no one asked for but might love anyway.  
+From AI photo hunts to mood-based UI glitches, we build weirdly useful stuff at the intersection of creativity, code, and questionable decision-making.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Fueled by **vibe coding**, last-minute refactors, and the occasional “why is this working?”, we ship first and understand later. Mostly.
+
+---
+
+🚀 Check out [Reframe](https://github.com/Finger-Gun/Reframe) — your city just became a photo quest.
